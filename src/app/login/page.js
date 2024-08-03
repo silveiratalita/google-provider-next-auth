@@ -21,12 +21,12 @@ import { doc, setDoc, getFirestore } from "firebase/firestore";
 
 // Configuração do Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyCXMGf7ow_GIPG55k9cpdBhafOzzZede5o",
-  authDomain: "cardapio-digital-llm.firebaseapp.com",
-  projectId: "cardapio-digital-llm",
-  storageBucket: "cardapio-digital-llm.appspot.com",
-  messagingSenderId: "635605077664",
-  appId: "1:635605077664:web:fe785085d30d703b5483c5",
+  apiKey: "",
+  authDomain: ",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 export default function Page() {
